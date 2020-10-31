@@ -13,6 +13,8 @@ Use Function WeatherDataPull to quickly and easliy pull up to date weather stati
 
     -Automaticly puts data into a Pandas DataFrame for easy use and control of generated data
 
+    -Analysis included at the bottom of the notebook
+
 
 
 VacationPy
@@ -38,6 +40,8 @@ VacationPy
         -Should there be an error, run function again and insert valid fields
     
     -Generate a list and interactive map of the nearest hotel to the city center of all cities that fit your ideal vacation weather!
+
+    -Analysis included at the bottom of the notebook
 
 
 
